@@ -20,6 +20,5 @@ export default class GifSearch extends Component {
         </div>
       )
    }
-
    
 }
